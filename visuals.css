@@ -1,0 +1,32 @@
+body { 
+    background-color: rgba(20, 137, 204, 0.795);
+    color: white;
+    text-align:center;
+}
+
+h1{
+    font-family:'Courier New', Courier, monospace;
+    text-decoration:underline;
+}
+
+button{
+    color: white;
+    background-color:rgba(255, 153, 0, 0.904);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border:none;
+    border-radius:12px;
+}
+
+.watch{
+    background-color:rgba(253, 194, 30, 0.959);
+    margin: 40px;
+}
+
+.timer {
+    background-color: rgba(255, 230, 0, 0.678);
+    font-size: 70px;
+    margin: 20px;
+}
